@@ -1,0 +1,21 @@
+{
+  "name": "veridian",
+  "version": "1.0.0",
+  "description": ".",
+  "dependencies": {
+    "react": "^0.14.6"
+  },
+  "devDependencies": {
+    "babel": "^6.3.26",
+    "webpack": "^1.12.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aramzs/veridian.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
