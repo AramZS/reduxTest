@@ -2,6 +2,8 @@ import {List, Map} from 'immutable';
 
 //http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
 
+export const INITIAL_STATE = Map();
+
 export function setEntries(state, entries) {
   return state.set('entries', List(entries));
 }
