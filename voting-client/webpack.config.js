@@ -29,7 +29,7 @@ module.exports = {
 	},
 	devServer: {
 		contentBase: './dist',
-		hot: true
+		hot: true  //http://localhost:8080/webpack-dev-server/
 	},
 	plugins: [
 		new webpack.HotModuleReplacementPlugin()
